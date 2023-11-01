@@ -11,7 +11,8 @@ The first step to install my code is to click the link on my reposition on githu
  once the repository is done downloadding enter the command.
  -ls   
  You should see "HoriseonRefactory" listed inside of your directory.
- Finally, open youe Vscode and open up the "horiseonRefactory" and the code is officially installed.
+
+ Finally, open your Vscode and open up the "horiseonRefactory" file and the code is officially installed.
 
  ## License
  MIT License
