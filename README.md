@@ -9,6 +9,7 @@ The first step to install my code is to click the link on my reposition on githu
  - git commit -m "initial code"
  - git push origin main
  once the repository is done downloadding enter the command.
+
  -ls   
  You should see "HoriseonRefactory" listed inside of your directory.
 
