@@ -10,7 +10,9 @@ The first step to install my code is to click the link on my reposition on githu
  - git push origin main
  
  once the repository is done downloadding enter the command.
+ 
  -ls  
+ 
  You should see "HoriseonRefactory" listed inside of your directory.
 
  Finally, open your Vscode and open up the "horiseonRefactory" file and the code is officially installed.
